@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://eegmanifesto.github.io/blog/</loc>
+    <lastmod>2025-07-20T21:26:17-07:00</lastmod>
+  </url><url>
+    <loc>https://eegmanifesto.github.io/blog/posts/my-first-post/</loc>
+    <lastmod>2025-07-20T21:26:17-07:00</lastmod>
+  </url><url>
+    <loc>https://eegmanifesto.github.io/blog/posts/</loc>
+    <lastmod>2025-07-20T21:26:17-07:00</lastmod>
+  </url><url>
+    <loc>https://eegmanifesto.github.io/blog/categories/</loc>
+  </url><url>
+    <loc>https://eegmanifesto.github.io/blog/tags/</loc>
+  </url>
+</urlset>
