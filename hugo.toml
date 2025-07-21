@@ -1,0 +1,4 @@
+baseURL = 'https://eegmanifesto.github.io/blog/'
+languageCode = 'en-us'
+title = 'EEG Manifesto'
+theme = 'PaperMod'
